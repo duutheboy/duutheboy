@@ -2,11 +2,9 @@
 
 ###
 
-<p align="left">**I have been studying to become a Fullstack developer and to secure my first job opportunity in the development field. Currently, I work as a support analyst.**</p>
+**I have been studying to become a Fullstack developer and to secure my first job opportunity in the development field. Currently, I work as a support analyst.**
 
-###
-
-<p align="left">**Currently, I have been focusing my studies on ```Vue.js``` and ```TypeScript```.**</p>
+**Currently, I have been focusing my studies on ```Vue.js``` and ```TypeScript```.**
 
 ###
 
