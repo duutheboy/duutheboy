@@ -9,7 +9,7 @@
 ###
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF9B9B)](https://www.linkedin.com/in/eduardobezerra87)
-[![outlook]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF9B9B](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=FF9B9B))](mailto:eduardobezerra777@outlook.com)
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=FF9B9B)](mailto:eduardobezerra777@outlook.com)
 
 ###
 
