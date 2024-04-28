@@ -8,14 +8,8 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardobezerra87/" target="_blank">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  </a>
-  <a href="eduardobezerra777@outlook.com" target="_blank">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
-</div>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=070808)](https://www.linkedin.com/in/eduardobezerra87)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=070808)](mailto:eduardobezerra777@outlook.com)
 
 ###
 
