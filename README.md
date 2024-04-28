@@ -10,10 +10,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardobezerra87/" target="_blank">
-    ![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)
+    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   </a>
   <a href="eduardobezerra777@outlook.com" target="_blank">
-    [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="30" height="25" alt="microsoft-outlook logo"  />](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
 </div>
 
