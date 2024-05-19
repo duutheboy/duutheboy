@@ -8,8 +8,8 @@
 
 ###
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=FF9B9B)](https://www.linkedin.com/in/eduardobezerra87)
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black&color=FF9B9B)](mailto:eduardobezerra777@outlook.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://www.linkedin.com/in/eduardobezerra87)
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=000000)](mailto:eduardobezerra777@outlook.com)
 
 ###
 
