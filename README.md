@@ -4,7 +4,7 @@
 
 **I have been studying to become a Fullstack developer and to secure my first job opportunity in the development field. Currently, I work as a support analyst.**
 
-**Currently, I have been focusing my studies on ```React``` and ```Node.js```.**
+**Currently, I have been focusing my studies on ```React``` ```Node.js``` and ```Next.js```.**
 
 ###
 
