@@ -5,7 +5,6 @@
 
 **I have been studying to become a Fullstack developer and to secure my first job opportunity in the development field. Currently, I work as a support analyst.**
 
-**Currently, I have been focusing my studies on ```Java``` and ```Springboot```.**
 ###
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://www.linkedin.com/in/eduardobezerra87) [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=000000)](mailto:eduardobezerra777@outlook.com)
 
@@ -27,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="0" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="0" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="0" />
 </div>
 
