@@ -6,7 +6,6 @@
 **I have been studying to become a Fullstack developer and to secure my first job opportunity in the development field.** 
 </br>
 </br>
-**Currently, I am studying ```Java``` and ```Spring Boot```**
 
 ###
 
